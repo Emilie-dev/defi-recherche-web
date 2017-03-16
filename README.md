@@ -45,3 +45,9 @@ Et en 1970, elle participe à la mise en place des 1er languages de programmatio
 
 Qwant est un moteur de recherche français lancé en février 2013. Il mets l'accent sur le respect de la vie privée, un environnement sécurisé et des résultats pertinents. En savoir plus: https://www.qwant.com/about
 
+
+* Qui est Steve Wozniak?
+
+Stephen Gary Wozniak est un informaticien, professeur d'informatique et électronicien américain.
+Il est cofondateur de la société Apple Computer avec Steve Jobs et Ronald Wayne, et concepteur des premiers Apple. Source: https://fr.wikipedia.org/wiki/Steve_Wozniak
+
