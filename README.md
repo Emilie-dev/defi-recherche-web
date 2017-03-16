@@ -26,5 +26,10 @@ http://www.linux-france.org/article/formation/net.html
 * Copyright: droit que se réserve un auteur ou son cessionnaire pour protéger l'exploitation, pendant un certain nombre d'années, d'une œuvre littéraire, artistique ou scientifique.
 En savoir plus sur http://www.larousse.fr/dictionnaires/francais/copyright/19166#ix8Umr5bJJwDfygw.99
 
-*Copyleft: le copyleft est une méthode générale pour rendre libre un programme (ou toute autre œuvre) et obliger toutes les versions modifiées ou étendues de ce programme à être libres également.
+* Copyleft: le copyleft est une méthode générale pour rendre libre un programme (ou toute autre œuvre) et obliger toutes les versions modifiées ou étendues de ce programme à être libres également.
 https://www.gnu.org/licenses/copyleft.fr.html
+
+
+* Que sont les Creatives Commons?
+
+Creative Commons(*CC*) est une organisation à but non lucratif dont le but est de proposer une solution alternative légale aux personnes souhaitant libérer leurs œuvres des droits de propriété intellectuelle standard de leur pays, jugés trop restrictifs. source: https://fr.wikipedia.org/wiki/Creative_Commons
