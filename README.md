@@ -40,3 +40,8 @@ Creative Commons(*CC*) est une organisation à but non lucratif dont le but est 
 Grace Hopper est une scientifique américaine, qui a conçu le 1er compilateur (*A-O System*) en 1950.
 Et en 1970, elle participe à la mise en place des 1er languages de programmation évolués: Le Fortran et le COBOL. Source: https://fr.wikipedia.org/wiki/Grace_Hopper
 
+
+* Qu'est-ce que Qwant?
+
+Qwant est un moteur de recherche français lancé en février 2013. Il mets l'accent sur le respect de la vie privée, un environnement sécurisé et des résultats pertinents. En savoir plus: https://www.qwant.com/about
+
