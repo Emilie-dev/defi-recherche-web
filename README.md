@@ -85,5 +85,9 @@ Richard Stallman est un programmeur et militant du logiciel libre. Initiateur du
 « copyleft ». Programmeur renommé de la communauté informatique américaine et internationale, il a développé de nombreux logiciels dont les plus connus des développeurs sont l’éditeur de texte GNU Emacs, le compilateur C de GNU (GCC), le débogueur GNU (gdb) mais aussi, en collaboration avec Roland McGrath, le moteur de production GNU Make. https://fr.wikipedia.org/wiki/Richard_Stallman
 
 
+* Comment fonctionnent les bangs de Duck Duck Go?
+
+Les bangs nous permettent de chercher des informations sur plusieurs sites simultanément. https://duckduckgo.com/bang
+
 
 
