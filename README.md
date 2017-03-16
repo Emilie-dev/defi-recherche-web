@@ -81,13 +81,18 @@ Le protocole Http permet de recevoir des informations des serveurs web (serveurs
 
 * Qui est Richard Stallman?
 
-Richard Stallman est un programmeur et militant du logiciel libre. Initiateur du mouvement du logiciel libre, il lance, en 1983, le projet GNU et la licence publique générale GNU connue aussi sous l’acronyme GPL. Il a popularisé le terme
+Richard Stallman (*U.S.A*) est un programmeur et militant du logiciel libre. Initiateur du mouvement du logiciel libre, il lance, en 1983, le projet GNU et la licence publique générale GNU connue aussi sous l’acronyme GPL. Il a popularisé le terme
 « copyleft ». Programmeur renommé de la communauté informatique américaine et internationale, il a développé de nombreux logiciels dont les plus connus des développeurs sont l’éditeur de texte GNU Emacs, le compilateur C de GNU (GCC), le débogueur GNU (gdb) mais aussi, en collaboration avec Roland McGrath, le moteur de production GNU Make. https://fr.wikipedia.org/wiki/Richard_Stallman
 
 
 * Comment fonctionnent les bangs de Duck Duck Go?
 
 Les bangs nous permettent de chercher des informations sur plusieurs sites simultanément. https://duckduckgo.com/bang
+
+
+* Qui est Marissa Mayer?
+
+Marissa Ann Mayer est une informaticienne et chef d'entreprise américaine. Elle occupe de 2012 à 2017 le poste de PDG de Yahoo! après 13 ans chez Google en tant que vice-présidente responsable des services de cartographie et de géolocalisation. Source: https://fr.wikipedia.org/wiki/Marissa_Mayer
 
 
 
