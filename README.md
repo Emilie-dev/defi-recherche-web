@@ -98,3 +98,12 @@ Marissa Ann Mayer est une informaticienne et chef d'entreprise américaine. Elle
 * Qu'est-ce qu'une attaque "brute force"?
 
 L'attaque en "Force brute" est l'une des méthodes utilisées en cryptanalyse pour tenter de casser un cryptage. Le principe en lui-même de l'attaque en "Force brute" ne vise pas exclusivement les "Mots de passe" mais c'est dans ce domaine que ce type d'attaques est essentiellement utilisé. L'attaque en "Force brute" vise un mot de passe à la fois. Source: http://assiste.com/Force_brute.html
+
+
+* Qui est Linus Torvalds?
+ - Quels sont ses plus grands développements?
+
+ De son vrai nom Benedict Torvalds est un informaticien américano-finlandais1.
+Il est connu pour avoir créé en 1991 le noyau Linux dont il continue de diriger le développement. 
+
+Il a également créé le logiciel de gestion de versions Git, initialement prévu pour le développement du noyau Linux. Source: https://fr.wikipedia.org/wiki/Linus_Torvalds
