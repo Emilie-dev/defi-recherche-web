@@ -95,4 +95,6 @@ Les bangs nous permettent de chercher des informations sur plusieurs sites simul
 Marissa Ann Mayer est une informaticienne et chef d'entreprise américaine. Elle occupe de 2012 à 2017 le poste de PDG de Yahoo! après 13 ans chez Google en tant que vice-présidente responsable des services de cartographie et de géolocalisation. Source: https://fr.wikipedia.org/wiki/Marissa_Mayer
 
 
+* Qu'est-ce qu'une attaque "brute force"?
 
+L'attaque en "Force brute" est l'une des méthodes utilisées en cryptanalyse pour tenter de casser un cryptage. Le principe en lui-même de l'attaque en "Force brute" ne vise pas exclusivement les "Mots de passe" mais c'est dans ce domaine que ce type d'attaques est essentiellement utilisé. L'attaque en "Force brute" vise un mot de passe à la fois. Source: http://assiste.com/Force_brute.html
