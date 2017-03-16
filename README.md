@@ -101,9 +101,14 @@ L'attaque en "Force brute" est l'une des méthodes utilisées en cryptanalyse po
 
 
 * Qui est Linus Torvalds?
- - Quels sont ses plus grands développements?
+  - Quels sont ses plus grands développements?
 
  De son vrai nom Benedict Torvalds est un informaticien américano-finlandais1.
 Il est connu pour avoir créé en 1991 le noyau Linux dont il continue de diriger le développement. 
 
 Il a également créé le logiciel de gestion de versions Git, initialement prévu pour le développement du noyau Linux. Source: https://fr.wikipedia.org/wiki/Linus_Torvalds
+
+
+* Combien coûte un nom de domaine?
+
+Les prix peuvent varier de 20€ à 75€ par an. Source: https://www.nom-domaine.fr/tarifs.html
