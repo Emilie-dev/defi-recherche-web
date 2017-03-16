@@ -67,3 +67,11 @@ Le 9 septembre 1945, Grace Hopper trouve un papillon coincé entre les  relais �
 
 Aaron Swartz est un informaticien américain, écrivain, meneur politique et militant de l'Internet. Il s'est impliqué dans le développement du format de flux Web RSS, l'organisation Creative Commons, le cadriciel de site Web web.py et le site d'actualité Reddit, dans lequel il est devenu associé après fusion avec sa compagnie, Infogami. Il a aidé à lancer le Progressive Change Campaign Committee.
 Il a fondé le cyber-groupe Demand Progress, connu pour sa campagne contre le Stop Online Piracy Act (SOPA). https://fr.wikipedia.org/wiki/Aaron_Swartz
+
+
+* Qu'est-ce que le projet GNU?
+
+Le développement de GNU, entamé en janvier 1984, est connu sous le nom de projet GNU. GNU est un système d'exploitation constitué de logiciel libre – c'est-à-dire qu'il respecte la liberté des utilisateurs. Le développement de GNU a rendu possible l'utilisation d'un ordinateur sans logiciel susceptible de bafouer aucune liberté. https://www.gnu.org/home.fr.html
+
+
+ 
