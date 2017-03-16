@@ -74,4 +74,8 @@ Il a fondé le cyber-groupe Demand Progress, connu pour sa campagne contre le St
 Le développement de GNU, entamé en janvier 1984, est connu sous le nom de projet GNU. GNU est un système d'exploitation constitué de logiciel libre – c'est-à-dire qu'il respecte la liberté des utilisateurs. Le développement de GNU a rendu possible l'utilisation d'un ordinateur sans logiciel susceptible de bafouer aucune liberté. https://www.gnu.org/home.fr.html
 
 
- 
+* Quelles sont les différences entre le Http et le Https?
+
+Le protocole Http permet de recevoir des informations des serveurs web (serveurs http), permet d’envoyer des informations vers les serveurs web, et surtout que tous ces échanges se sont font sans aucun cryptage. Le protocole Https a été créé pour pallier aux défauts de l’http. Notamment en termes de sécurité, le protocole https est composé de 2 protocoles :le protocole http et le protocole ssl : c’est lui qui donne le S au protocole httpS (S pour Secure). Source: http://www.culture-informatique.net/cest-quoi-difference-http-https/
+
+
