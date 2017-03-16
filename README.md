@@ -51,9 +51,19 @@ Qwant est un moteur de recherche français lancé en février 2013. Il mets l'ac
 Stephen Gary Wozniak est un informaticien, professeur d'informatique et électronicien américain.
 Il est cofondateur de la société Apple Computer avec Steve Jobs et Ronald Wayne, et concepteur des premiers Apple. Source: https://fr.wikipedia.org/wiki/Steve_Wozniak
 
-D'où vient l'expression "bug informatique"?
+
+* D'où vient l'expression "bug informatique"?
 
 Le 9 septembre 1945, Grace Hopper trouve un papillon coincé entre les  relais électriques de la machine. A l’époque, les ordinateurs remplissent un volume considérable (des salles entières), consomment beaucoup d’énergie et produisent beaucoup de chaleur. Une température qui attire de nombreux insectes (*bugs*) qui s’invitent un peu partout entre les composants des machines. Source: http://www.presse-citron.net/anecdote-connaissez-vous-lorigine-du-bug-informatique/
 
 
+* Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains événements?
 
+
+* Quels sont les prochains rendez-vous tech de Toulouse?
+
+
+* Qui est Aaron Swartz?
+
+Aaron Swartz est un informaticien américain, écrivain, meneur politique et militant de l'Internet. Il s'est impliqué dans le développement du format de flux Web RSS, l'organisation Creative Commons, le cadriciel de site Web web.py et le site d'actualité Reddit, dans lequel il est devenu associé après fusion avec sa compagnie, Infogami. Il a aidé à lancer le Progressive Change Campaign Committee.
+Il a fondé le cyber-groupe Demand Progress, connu pour sa campagne contre le Stop Online Piracy Act (SOPA). https://fr.wikipedia.org/wiki/Aaron_Swartz
