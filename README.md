@@ -51,3 +51,9 @@ Qwant est un moteur de recherche français lancé en février 2013. Il mets l'ac
 Stephen Gary Wozniak est un informaticien, professeur d'informatique et électronicien américain.
 Il est cofondateur de la société Apple Computer avec Steve Jobs et Ronald Wayne, et concepteur des premiers Apple. Source: https://fr.wikipedia.org/wiki/Steve_Wozniak
 
+D'où vient l'expression "bug informatique"?
+
+Le 9 septembre 1945, Grace Hopper trouve un papillon coincé entre les  relais électriques de la machine. A l’époque, les ordinateurs remplissent un volume considérable (des salles entières), consomment beaucoup d’énergie et produisent beaucoup de chaleur. Une température qui attire de nombreux insectes (*bugs*) qui s’invitent un peu partout entre les composants des machines. Source: http://www.presse-citron.net/anecdote-connaissez-vous-lorigine-du-bug-informatique/
+
+
+
