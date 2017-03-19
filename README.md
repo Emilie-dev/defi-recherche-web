@@ -23,10 +23,10 @@ http://www.linux-france.org/article/formation/net.html
 
 * Que sont le copyright et le copyleft?
 
- - Copyright: droit que se réserve un auteur ou son cessionnaire pour protéger l'exploitation, pendant un certain nombre d'années, d'une œuvre littéraire, artistique ou scientifique.
+ Copyright: droit que se réserve un auteur ou son cessionnaire pour protéger l'exploitation, pendant un certain nombre d'années, d'une œuvre littéraire, artistique ou scientifique.
  En savoir plus sur http://www.larousse.fr/dictionnaires/francais/copyright/19166#ix8Umr5bJJwDfygw.99
 
- - Copyleft: le copyleft est une méthode générale pour rendre libre un programme (ou toute autre œuvre) et obliger toutes les versions modifiées ou étendues de ce programme à être libres également.
+Copyleft: le copyleft est une méthode générale pour rendre libre un programme (ou toute autre œuvre) et obliger toutes les versions modifiées ou étendues de ce programme à être libres également.
 https://www.gnu.org/licenses/copyleft.fr.html
 
 
@@ -59,9 +59,12 @@ Le 9 septembre 1945, Grace Hopper trouve un papillon coincé entre les  relais �
 
 * Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains événements?
 
+  - Aftework développeurs Web-Web-atrio Toulouse https://www.meetup.com/fr-FR/Meetup-Afterwork-a-Web-atrio-Toulouse/
+
 
 * Quels sont les prochains rendez-vous tech de Toulouse?
 
+Site sur les meetups : https://www.meetup.com/fr-FR/cities/fr/toulouse/
 
 * Qui est Aaron Swartz?
 
