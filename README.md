@@ -115,3 +115,10 @@ Il a également créé le logiciel de gestion de versions Git, initialement pré
 * Combien coûte un nom de domaine?
 
 Les prix peuvent varier de 20€ à 75€ par an. Source: https://www.nom-domaine.fr/tarifs.html
+
+
+* Quels sont les différents services d'emailing disponibles?
+
+  - Un client veut envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi?
+
+Il existe de nombreux services d'emailing comme: Benchmark Email, eTarget eMailing, Oximailing, Sarbacane... https://fr.wikipedia.org/wiki/E-mailing. 
