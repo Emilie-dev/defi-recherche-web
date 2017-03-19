@@ -152,3 +152,12 @@ La souris a été inventée en 1963 par Douglas Engelbart (ingénieur américain
 * Qui est Margaret Hamilton?
 
 Margaret Hamilton est une informaticienne et mathématicienne. Elle était directrice du département génie logiciel (« software engineering », terme de son invention) du MIT Instrumentation Laboratory qui conçut le système embarqué du programme Apollo. Source: https://fr.wikipedia.org/wiki/Margaret_Hamilton_(scientifique)
+
+
+* Retrouvez le code source de la mission Apollo 11.
+
+  Décrivez le (language, nb de collaborateurs, durée de la mission).
+
+ Code source de la mission Apollo 11: https://github.com/chrislgarry/Apollo-11.
+ Il est en language d'assemblage, la mission a durée 9 jours 16/07 au 24/07 1969, il y avait 3 astronautes. Source: https://fr.wikipedia.org/wiki/Apollo_11
+
