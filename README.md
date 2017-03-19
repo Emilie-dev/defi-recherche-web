@@ -144,3 +144,8 @@ Le cycle en V est une méthode d’organisation très connue dont l’origine re
 Oui et non, cela dépend surtout de leurs intentions. En sécurité informatique, un hacker (ou hackeur) est un spécialiste qui recherche les moyens de contourner les protections logicielles et matérielles. Il peut vouloir signaler les failles trouvées au propriétaire du système concerné (dans une démarche d'amélioration de la sécurité de ce système), en tirer profit, les utiliser dans une démarche militante (on parle alors d'hacktivisme) ou simplement considérer le contournement (hacking) comme un défi1. Source: https://fr.wikipedia.org/wiki/Hacker_(s%C3%A9curit%C3%A9_informatique)
 
 
+* Qui a inventé la souris?
+
+La souris a été inventée en 1963 par Douglas Engelbart (ingénieur américain, pionnier de l'informatique) du Stanford Research Institute et présentée au public en 1968. https://fr.wikipedia.org/wiki/Souris_(informatique)
+
+
