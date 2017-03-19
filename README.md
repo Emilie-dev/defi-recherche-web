@@ -127,3 +127,8 @@ Il existe de nombreux services d'emailing comme: Benchmark Email, eTarget eMaili
 * Quel est votre adresse IP actuelle?
 
 Mon adresse IP est le 192.168.1.20, que je peut voir dans l'interface "information sur la connexion".
+
+
+* Et celle de votre smartphone?
+
+L'adresse IP de mon Android est: 192.168.1.18.
