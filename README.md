@@ -149,3 +149,6 @@ Oui et non, cela dépend surtout de leurs intentions. En sécurité informatique
 La souris a été inventée en 1963 par Douglas Engelbart (ingénieur américain, pionnier de l'informatique) du Stanford Research Institute et présentée au public en 1968. https://fr.wikipedia.org/wiki/Souris_(informatique)
 
 
+* Qui est Margaret Hamilton?
+
+Margaret Hamilton est une informaticienne et mathématicienne. Elle était directrice du département génie logiciel (« software engineering », terme de son invention) du MIT Instrumentation Laboratory qui conçut le système embarqué du programme Apollo. Source: https://fr.wikipedia.org/wiki/Margaret_Hamilton_(scientifique)
