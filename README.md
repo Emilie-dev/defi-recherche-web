@@ -137,3 +137,10 @@ L'adresse IP de mon Android est: 192.168.1.18.
 * Qu'est-ce que le développement en cycle V?
 
 Le cycle en V est une méthode d’organisation très connue dont l’origine remonte à l’industrie et qui a été adaptée à l’informatique dans les années 80. C’est l’une des premières méthodes qu’on apprend à l’école, et elle reste toujours d’actualité.On peut y distinguer 3 grandes parties : La phase de conception, la phase de réalisation (codage) et la phase de validation. Les phases de conception et de validation se découpent en plusieurs parties. Chaque étape ne peut être réalisée qu’une fois que l’étape précédente est terminée, ce qui diminue les prises de risque sur le projet. Source: http://www.geek-directeur-technique.com/2009/02/04/le-cycle-en-v
+
+
+* Les Hackers sont-ils des hors-la-loi?
+
+Oui et non, cela dépend surtout de leurs intentions. En sécurité informatique, un hacker (ou hackeur) est un spécialiste qui recherche les moyens de contourner les protections logicielles et matérielles. Il peut vouloir signaler les failles trouvées au propriétaire du système concerné (dans une démarche d'amélioration de la sécurité de ce système), en tirer profit, les utiliser dans une démarche militante (on parle alors d'hacktivisme) ou simplement considérer le contournement (hacking) comme un défi1. Source: https://fr.wikipedia.org/wiki/Hacker_(s%C3%A9curit%C3%A9_informatique)
+
+
